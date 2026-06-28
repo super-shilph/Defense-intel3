@@ -6,4 +6,4 @@ export const MAIN_IMAGE_WIDTH = 240
 export const MAIN_IMAGE_HEIGHT = 240
 export const TAB_IMAGE_WIDTH = 96
 export const TAB_IMAGE_HEIGHT = 74
-export const STICKERS_PER_SET = 8
+export const STICKERS_PER_SET = 40
