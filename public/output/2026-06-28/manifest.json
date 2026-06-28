@@ -1,293 +1,329 @@
 {
   "date": "2026-06-28",
-  "theme": "猫",
+  "theme": "可愛い鴨",
   "keywords": [
-    "猫",
-    "犬",
-    "推し活",
-    "お疲れ様",
-    "ありがとう"
+    "可愛い鴨"
   ],
   "provider": "mock",
   "stickers": [
     {
       "index": 0,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "おはよう",
-      "prompt": "Cute chibi character mascot themed around \"猫\", cheerful morning greeting, bright colors, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "cheerful morning greeting, bright colors",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", cheerful morning greeting, bright colors, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-01.png"
     },
     {
       "index": 1,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "おやすみ",
-      "prompt": "Cute chibi character mascot themed around \"猫\", sleepy, yawning, night theme with moon, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "sleepy, yawning, night theme with moon",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", sleepy, yawning, night theme with moon, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-02.png"
     },
     {
       "index": 2,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "ありがとう",
-      "prompt": "Cute chibi character mascot themed around \"猫\", grateful, warm smile, sparkles, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "grateful, warm smile, sparkles",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", grateful, warm smile, sparkles, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-03.png"
     },
     {
       "index": 3,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "どういたしまして",
-      "prompt": "Cute chibi character mascot themed around \"猫\", gentle nod, soft smile, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "gentle nod, soft smile",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", gentle nod, soft smile, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-04.png"
     },
     {
       "index": 4,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "お疲れ様です",
-      "prompt": "Cute chibi character mascot themed around \"猫\", tired but encouraging, gentle expression, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "tired but encouraging, gentle expression",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", tired but encouraging, gentle expression, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-05.png"
     },
     {
       "index": 5,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "よろしくお願いします",
-      "prompt": "Cute chibi character mascot themed around \"猫\", polite bow, friendly expression, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "polite bow, friendly expression",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", polite bow, friendly expression, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-06.png"
     },
     {
       "index": 6,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "ごめんね",
-      "prompt": "Cute chibi character mascot themed around \"猫\", apologetic, teary eyes, small bow, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "apologetic, teary eyes, small bow",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", apologetic, teary eyes, small bow, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-07.png"
     },
     {
       "index": 7,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "ゆるして",
-      "prompt": "Cute chibi character mascot themed around \"猫\", pleading, puppy eyes, hands clasped, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "pleading, puppy eyes, hands clasped",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", pleading, puppy eyes, hands clasped, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-08.png"
     },
     {
       "index": 8,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "すごい！",
-      "prompt": "Cute chibi character mascot themed around \"猫\", excited, surprised, starry eyes, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "excited, surprised, starry eyes",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", excited, surprised, starry eyes, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-09.png"
     },
     {
       "index": 9,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "びっくり！",
-      "prompt": "Cute chibi character mascot themed around \"猫\", wide-eyed shock, jumping back, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "wide-eyed shock, jumping back",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", wide-eyed shock, jumping back, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-10.png"
     },
     {
       "index": 10,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "がんばる！",
-      "prompt": "Cute chibi character mascot themed around \"猫\", determined, fist pump, motivated, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "determined, fist pump, motivated",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", determined, fist pump, motivated, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-11.png"
     },
     {
       "index": 11,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "もうむり",
-      "prompt": "Cute chibi character mascot themed around \"猫\", exhausted, melting onto the floor, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "exhausted, melting onto the floor",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", exhausted, melting onto the floor, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-12.png"
     },
     {
       "index": 12,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "大好き",
-      "prompt": "Cute chibi character mascot themed around \"猫\", affectionate, heart eyes, blushing, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "affectionate, heart eyes, blushing",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", affectionate, heart eyes, blushing, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-13.png"
     },
     {
       "index": 13,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "会いたい",
-      "prompt": "Cute chibi character mascot themed around \"猫\", longing, wistful gaze, hand reaching out, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "longing, wistful gaze, hand reaching out",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", longing, wistful gaze, hand reaching out, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-14.png"
     },
     {
       "index": 14,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "おめでとう",
-      "prompt": "Cute chibi character mascot themed around \"猫\", celebratory, confetti, party hat, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "celebratory, confetti, party hat",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", celebratory, confetti, party hat, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-15.png"
     },
     {
       "index": 15,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "よっしゃー",
-      "prompt": "Cute chibi character mascot themed around \"猫\", triumphant, arms raised, big grin, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "triumphant, arms raised, big grin",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", triumphant, arms raised, big grin, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-16.png"
     },
     {
       "index": 16,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "いいね！",
-      "prompt": "Cute chibi character mascot themed around \"猫\", thumbs up, confident wink, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "thumbs up, confident wink",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", thumbs up, confident wink, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-17.png"
     },
     {
       "index": 17,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "OK！",
-      "prompt": "Cute chibi character mascot themed around \"猫\", okay sign, relaxed pose, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "okay sign, relaxed pose",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", okay sign, relaxed pose, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-18.png"
     },
     {
       "index": 18,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "なるほど",
-      "prompt": "Cute chibi character mascot themed around \"猫\", thoughtful nod, hand on chin, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "thoughtful nod, hand on chin",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", thoughtful nod, hand on chin, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-19.png"
     },
     {
       "index": 19,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "マジ？",
-      "prompt": "Cute chibi character mascot themed around \"猫\", shocked disbelief, jaw dropped, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "shocked disbelief, jaw dropped",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", shocked disbelief, jaw dropped, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-20.png"
     },
     {
       "index": 20,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "うれしい",
-      "prompt": "Cute chibi character mascot themed around \"猫\", pure joy, bouncing, sparkling background, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "pure joy, bouncing, sparkling background",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", pure joy, bouncing, sparkling background, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-21.png"
     },
     {
       "index": 21,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "かなしい",
-      "prompt": "Cute chibi character mascot themed around \"猫\", sad, tears welling up, drooping posture, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "sad, tears welling up, drooping posture",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", sad, tears welling up, drooping posture, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-22.png"
     },
     {
       "index": 22,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "おこ",
-      "prompt": "Cute chibi character mascot themed around \"猫\", mildly angry, puffed cheeks, crossed arms, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "mildly angry, puffed cheeks, crossed arms",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", mildly angry, puffed cheeks, crossed arms, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-23.png"
     },
     {
       "index": 23,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "いただきます",
-      "prompt": "Cute chibi character mascot themed around \"猫\", about to eat, chopsticks raised, happy anticipation, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "about to eat, chopsticks raised, happy anticipation",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", about to eat, chopsticks raised, happy anticipation, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-24.png"
     },
     {
       "index": 24,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "ごちそうさま",
-      "prompt": "Cute chibi character mascot themed around \"猫\", satisfied after meal, content smile, patting belly, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "satisfied after meal, content smile, patting belly",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", satisfied after meal, content smile, patting belly, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-25.png"
     },
     {
       "index": 25,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "いってきます",
-      "prompt": "Cute chibi character mascot themed around \"猫\", heading out, waving, bag on shoulder, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "heading out, waving, bag on shoulder",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", heading out, waving, bag on shoulder, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-26.png"
     },
     {
       "index": 26,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "ただいま",
-      "prompt": "Cute chibi character mascot themed around \"猫\", just got home, relieved smile, taking off shoes, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "just got home, relieved smile, taking off shoes",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", just got home, relieved smile, taking off shoes, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-27.png"
     },
     {
       "index": 27,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "おつかれ〜",
-      "prompt": "Cute chibi character mascot themed around \"猫\", casual relaxed wave, slouched posture, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "casual relaxed wave, slouched posture",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", casual relaxed wave, slouched posture, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-28.png"
     },
     {
       "index": 28,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "了解！",
-      "prompt": "Cute chibi character mascot themed around \"猫\", saluting, sharp confident nod, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "saluting, sharp confident nod",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", saluting, sharp confident nod, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-29.png"
     },
     {
       "index": 29,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "ちょっと待って",
-      "prompt": "Cute chibi character mascot themed around \"猫\", holding up a hand, slightly panicked, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "holding up a hand, slightly panicked",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", holding up a hand, slightly panicked, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-30.png"
     },
     {
       "index": 30,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "考え中…",
-      "prompt": "Cute chibi character mascot themed around \"猫\", pondering, thought bubble, tilted head, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "pondering, thought bubble, tilted head",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", pondering, thought bubble, tilted head, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-31.png"
     },
     {
       "index": 31,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "お祝い！",
-      "prompt": "Cute chibi character mascot themed around \"猫\", festive, balloons, party popper, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "festive, balloons, party popper",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", festive, balloons, party popper, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-32.png"
     },
     {
       "index": 32,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "応援してる",
-      "prompt": "Cute chibi character mascot themed around \"猫\", cheering with pom poms, supportive smile, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "cheering with pom poms, supportive smile",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", cheering with pom poms, supportive smile, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-33.png"
     },
     {
       "index": 33,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "なきそう",
-      "prompt": "Cute chibi character mascot themed around \"猫\", about to cry, wobbling lip, glassy eyes, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "about to cry, wobbling lip, glassy eyes",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", about to cry, wobbling lip, glassy eyes, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-34.png"
     },
     {
       "index": 34,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "ラブ注入",
-      "prompt": "Cute chibi character mascot themed around \"猫\", sending hearts, blowing a kiss, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "sending hearts, blowing a kiss",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", sending hearts, blowing a kiss, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-35.png"
     },
     {
       "index": 35,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "ねむい",
-      "prompt": "Cute chibi character mascot themed around \"猫\", drowsy, half-closed eyes, stretching, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "drowsy, half-closed eyes, stretching",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", drowsy, half-closed eyes, stretching, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-36.png"
     },
     {
       "index": 36,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "おなかすいた",
-      "prompt": "Cute chibi character mascot themed around \"猫\", hungry, growling stomach, pleading look, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "hungry, growling stomach, pleading look",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", hungry, growling stomach, pleading look, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-37.png"
     },
     {
       "index": 37,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "がんばったね",
-      "prompt": "Cute chibi character mascot themed around \"猫\", praising, gentle pat on the head gesture, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "praising, gentle pat on the head gesture",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", praising, gentle pat on the head gesture, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-38.png"
     },
     {
       "index": 38,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "お先に失礼します",
-      "prompt": "Cute chibi character mascot themed around \"猫\", polite farewell, slight bow, waving goodbye, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "polite farewell, slight bow, waving goodbye",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", polite farewell, slight bow, waving goodbye, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-39.png"
     },
     {
       "index": 39,
-      "theme": "猫",
+      "theme": "可愛い鴨",
       "caption": "質問です",
-      "prompt": "Cute chibi character mascot themed around \"猫\", raising hand, curious expression, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "mood": "raising hand, curious expression",
+      "prompt": "Cute chibi character mascot themed around \"可愛い鴨\", raising hand, curious expression, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
       "file": "sticker-40.png"
     }
   ]

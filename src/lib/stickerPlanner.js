@@ -67,6 +67,7 @@ export function planStickerSet(keywords, { count = STICKERS_PER_SET } = {}) {
     index,
     theme,
     caption: template.caption,
+    mood: template.mood,
     prompt:
       `Cute chibi character mascot themed around "${theme}", ` +
       `${template.mood}, flat illustration sticker style, bold outlines, ` +

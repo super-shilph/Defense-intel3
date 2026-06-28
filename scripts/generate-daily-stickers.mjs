@@ -15,9 +15,15 @@ async function generateDailySet() {
   const outDir = path.join(OUTPUT_ROOT, date)
   await mkdir(outDir, { recursive: true })
 
-  console.log('[1/3] Fetching JP trending keywords...')
-  const keywords = await fetchJpTrendingKeywords()
-  console.log(`  -> ${keywords.join(', ')}`)
+  let keywords
+  if (process.env.STICKER_THEME) {
+    keywords = [process.env.STICKER_THEME]
+    console.log(`[1/3] Using fixed theme override: ${keywords[0]}`)
+  } else {
+    console.log('[1/3] Fetching JP trending keywords...')
+    keywords = await fetchJpTrendingKeywords()
+    console.log(`  -> ${keywords.join(', ')}`)
+  }
 
   console.log('[2/3] Planning sticker concepts...')
   const concepts = planStickerSet(keywords)
