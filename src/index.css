@@ -1,0 +1,127 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Hiragino Sans', 'Helvetica Neue', Arial, sans-serif;
+  background: #f4f5f7;
+  color: #1c1c1e;
+}
+
+.page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 24px 16px 64px;
+}
+
+header h1 {
+  font-size: 1.4rem;
+  margin-bottom: 4px;
+}
+
+.disclaimer {
+  font-size: 0.8rem;
+  color: #6b6b6e;
+  line-height: 1.4;
+}
+
+.card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 20px;
+  margin-top: 16px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.card.highlight {
+  border: 2px solid #2563eb;
+}
+
+.card h2 {
+  font-size: 1.05rem;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 12px;
+}
+
+.metric {
+  display: flex;
+  flex-direction: column;
+  background: #f8f9fb;
+  border-radius: 8px;
+  padding: 10px 12px;
+}
+
+.metric-label {
+  font-size: 0.75rem;
+  color: #6b6b6e;
+}
+
+.metric-value {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.notes {
+  margin-top: 14px;
+  padding-left: 18px;
+  font-size: 0.9rem;
+  color: #3a3a3c;
+}
+
+.notes li {
+  margin-bottom: 4px;
+}
+
+.verdict {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #2563eb;
+  margin-bottom: 14px;
+}
+
+.hint {
+  font-size: 0.85rem;
+  color: #6b6b6e;
+  margin-top: -4px;
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.fund-input,
+.capital-input {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.8rem;
+  color: #3a3a3c;
+  gap: 4px;
+}
+
+.fund-input input,
+.capital-input input {
+  padding: 8px 10px;
+  border-radius: 6px;
+  border: 1px solid #d1d1d6;
+  font-size: 1rem;
+}
+
+.capital-input {
+  max-width: 220px;
+  margin-bottom: 12px;
+}
+
+.error {
+  color: #d32f2f;
+  font-weight: 600;
+}
