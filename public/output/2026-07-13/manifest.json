@@ -1,0 +1,70 @@
+{
+  "date": "2026-07-13",
+  "theme": "猫",
+  "keywords": [
+    "猫",
+    "犬",
+    "推し活",
+    "お疲れ様",
+    "ありがとう"
+  ],
+  "provider": "mock",
+  "stickers": [
+    {
+      "index": 0,
+      "theme": "猫",
+      "caption": "おはよう",
+      "prompt": "Cute chibi character mascot themed around \"猫\", cheerful morning greeting, bright colors, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "file": "sticker-01.png"
+    },
+    {
+      "index": 1,
+      "theme": "猫",
+      "caption": "ありがとう",
+      "prompt": "Cute chibi character mascot themed around \"猫\", grateful, warm smile, sparkles, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "file": "sticker-02.png"
+    },
+    {
+      "index": 2,
+      "theme": "猫",
+      "caption": "お疲れ様です",
+      "prompt": "Cute chibi character mascot themed around \"猫\", tired but encouraging, gentle expression, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "file": "sticker-03.png"
+    },
+    {
+      "index": 3,
+      "theme": "猫",
+      "caption": "ごめんね",
+      "prompt": "Cute chibi character mascot themed around \"猫\", apologetic, teary eyes, small bow, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "file": "sticker-04.png"
+    },
+    {
+      "index": 4,
+      "theme": "猫",
+      "caption": "すごい！",
+      "prompt": "Cute chibi character mascot themed around \"猫\", excited, surprised, starry eyes, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "file": "sticker-05.png"
+    },
+    {
+      "index": 5,
+      "theme": "猫",
+      "caption": "がんばる！",
+      "prompt": "Cute chibi character mascot themed around \"猫\", determined, fist pump, motivated, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "file": "sticker-06.png"
+    },
+    {
+      "index": 6,
+      "theme": "猫",
+      "caption": "大好き",
+      "prompt": "Cute chibi character mascot themed around \"猫\", affectionate, heart eyes, blushing, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "file": "sticker-07.png"
+    },
+    {
+      "index": 7,
+      "theme": "猫",
+      "caption": "おやすみ",
+      "prompt": "Cute chibi character mascot themed around \"猫\", sleepy, yawning, night theme with moon, flat illustration sticker style, bold outlines, simple shading, isolated on transparent background, no text",
+      "file": "sticker-08.png"
+    }
+  ]
+}
